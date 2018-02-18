@@ -1,0 +1,23 @@
+{
+  "name": "modelo_negociacao",
+  "version": "1.0.0",
+  "description": "modelo_negociacao base para referencia em typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbericoD/modelo_negociacao.git"
+  },
+  "author": "alberico dias barreto filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbericoD/modelo_negociacao/issues"
+  },
+  "homepage": "https://github.com/AlbericoD/modelo_negociacao#readme",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
+}
