@@ -5,14 +5,14 @@ class Negociacoes {
     /**
      * adiciona uma negociacao para não ser modificada
      */
-    public adiciona(negociacao:Negociacao) {
+    public adiciona(negociacao:Negociacao):void {
         this._negociacoes.push(negociacao);
     }
     /**
      * retorna o novo array de negociacoes
      */
-    public paraArray() {
-        return this._negociacoes;
+    public paraArray():Array<Negociacao> {
+        return [].concat(this._negociacoes);
     }
 
     
