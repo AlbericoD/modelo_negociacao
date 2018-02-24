@@ -14,11 +14,11 @@ O projeto usa as seguintes tecnologias:
 
 Você precisa ter o  [Node.js](https://nodejs.org/) para baixar as bibliotecas.
 
-Intale as dependencias do projeto e rode localmente:
+Intale as dependencias do projeto e rode local:
 
 ```sh
 $ git clone https://github.com/AlbericoD/modelo_negociacao.git
-$ cd app
+$ cd modelo_negociacao
 $ npm install
 $ npm start
 ```
