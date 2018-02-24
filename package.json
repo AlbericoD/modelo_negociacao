@@ -20,5 +20,8 @@
   "homepage": "https://github.com/AlbericoD/modelo_negociacao#readme",
   "devDependencies": {
     "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "@types/jquery": "^2.0.42"
   }
 }
